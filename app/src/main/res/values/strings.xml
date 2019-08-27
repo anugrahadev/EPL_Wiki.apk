@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EPL Wiki</string>
+    <string name="profile">Profile</string>
+    <string name="nama_tim">Nama tim</string>
+    <string name="konten">Konten</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
